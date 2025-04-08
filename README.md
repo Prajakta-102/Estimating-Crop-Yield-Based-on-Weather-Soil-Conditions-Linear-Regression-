@@ -138,4 +138,3 @@ Power BI, Tableau & Python Enthusiast
 Turning data into insights with ML, SQL, Excel & storytelling
 
 ---
-s
