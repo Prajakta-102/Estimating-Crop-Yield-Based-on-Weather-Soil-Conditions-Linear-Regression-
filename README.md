@@ -133,7 +133,7 @@ This project focuses on building a regression model to predict **Crop Yield** us
 ## 👩‍💻 Author
 
 **Prajakta More**  
-EXTC Engineer | Data Analyst | Aspiring Data Scientist  
+EXTC Engineer | Aspiring Data Analyst & Data Scientist |  
 Power BI, Tableau & Python Enthusiast  
 Turning data into insights with ML, SQL, Excel & storytelling
 
